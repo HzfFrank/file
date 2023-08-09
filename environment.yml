@@ -310,4 +310,4 @@ dependencies:
     - widgetsnbextension==4.0.7
     - wtforms==3.0.1
     - yapf==0.33.0
-prefix: /home/ubuntu/anaconda3/envs/suba
+# prefix: /home/ubuntu/anaconda3/envs/suba
